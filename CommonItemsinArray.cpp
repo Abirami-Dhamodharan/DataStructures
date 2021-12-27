@@ -2,6 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// function
 int main() {
   int arr1[7] = {9,8,1,2,3,4,4};
   int arr2[5] = {3,4,5};
